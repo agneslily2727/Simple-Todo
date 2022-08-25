@@ -1,0 +1,9 @@
+.commonClass{
+    margin-top: 80px;
+}
+
+.todoItem{
+    border: 1px solid crimson;
+    margin: 30px;
+    padding: 30px;
+}
